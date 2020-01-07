@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='QA CODE 2D'
